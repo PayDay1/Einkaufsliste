@@ -1,4 +1,7 @@
 # Lebenslauf
+
+![Alternativer Text](foto.jpg)
+
 Max Mustermann  
 025723 Musterstadt  
 Musterstraße 12  
