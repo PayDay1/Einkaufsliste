@@ -1,8 +1,8 @@
 # Lebenslauf
-Max Mustermann\n
-025723 Musterstadt\n
-Musterstraße 12\n
+Max Mustermann
+025723 Musterstadt
+Musterstraße 12
 
 ## Persönliche Informationen
-Geburtsdatum: 12.12.1998\n
-Geburtsort: Karlsruhe\n
+Geburtsdatum: 12.12.1998
+Geburtsort: Karlsruhe
